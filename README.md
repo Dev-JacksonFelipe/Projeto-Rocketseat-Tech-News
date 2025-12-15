@@ -2,7 +2,7 @@
 
 Um portal de notícias moderno focado em tecnologia, desenvolvido com HTML5, CSS3 e design responsivo. O projeto apresenta as últimas novidades em inteligência artificial, blockchain, hologramas, internet, vestíveis, realidade aumentada e realidade virtual.
 
-![Preview do Projeto](./preview.png)
+> 📸 **Screenshot em breve!** Tire uma captura de tela do projeto rodando e salve como `preview.png` na raiz do repositório.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -38,17 +38,18 @@ Projeto/
 
 ## ✨ Funcionalidades
 
-- Apresentação de portfólio seguro com informações pessoais
-- Galeria de fotos de viagens organizadas
-- Navegação intuitiva com menu responsivo
-- Exibição de imagens (galeria, vitrines de fotos)
+- Portal de notícias com categorias de tecnologia
+- Seção de notícias em destaque com layout em grid
+- Área "Mais lidas da semana" com cards organizados
+- Seção dedicada à Inteligência Artificial
+- Sidebar com anúncios e notícias adicionais
 - Design responsivo e moderno
-- Utiliza hover nos links e elementos interativos
+- Navegação intuitiva com hover effects
 
 ## 🎯 Destaques do Projeto
 
 - **Design Limpo:** Interface minimalista que destaca o conteúdo visual
-- **Paleta de Cores:** Esquema de cores moderno em tons de azul (FFFFFF)
+- **Paleta de Cores:** Esquema de cores moderno em tons de azul escuro (#0F172A)
 - **Tipografia:** Fonte Archivo para uma ótima legibilidade e modernidade
 - **Layout Responsivo:** Adaptação perfeita para diferentes tamanhos de tela
 - **Organização:** Código CSS bem estruturado com componentes reutilizáveis
