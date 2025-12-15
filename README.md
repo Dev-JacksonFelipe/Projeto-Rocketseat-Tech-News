@@ -2,7 +2,7 @@
 
 Um portal de notícias moderno focado em tecnologia, desenvolvido com HTML5, CSS3 e design responsivo. O projeto apresenta as últimas novidades em inteligência artificial, blockchain, hologramas, internet, vestíveis, realidade aumentada e realidade virtual.
 
-> 📸 **Screenshot em breve!** Tire uma captura de tela do projeto rodando e salve como `preview.png` na raiz do repositório.
+![Preview do Projeto](./preview.png)
 
 ## 🚀 Tecnologias Utilizadas
 
